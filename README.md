@@ -1,2 +1,2 @@
-# akashchatterjee.github.io
-Personal Website
+# Website is still compiling...
+Should've used python.
