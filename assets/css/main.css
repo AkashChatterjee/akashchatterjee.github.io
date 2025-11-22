@@ -173,15 +173,21 @@ pre code {
 
 .post-header {
   margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
 }
 
 .post-header .post-title {
   margin-bottom: 0.5rem;
+  margin-top: 0;
+  width: 100%;
 }
 
 .post-header .post-meta {
   margin-top: 0;
   margin-bottom: 2rem;
+  width: 100%;
+  clear: both;
 }
 
 .post-list {
