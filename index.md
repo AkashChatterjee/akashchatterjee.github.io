@@ -28,8 +28,8 @@ title: home
 
 I write about AI, software, travel and random deep thoughts nobody asked for.
 Always running away from meetings and towards mountains.
-</div>
 
+---
 
 ## Latest Posts
 
