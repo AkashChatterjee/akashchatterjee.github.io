@@ -1,6 +1,7 @@
 ---
 layout: default
 title: archive
+permalink: /archive/
 ---
 # everything
 <ul class="post-list">

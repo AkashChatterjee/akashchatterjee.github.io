@@ -171,6 +171,19 @@ pre code {
   display: block;
 }
 
+.post-header {
+  margin-bottom: 2rem;
+}
+
+.post-header .post-title {
+  margin-bottom: 0.5rem;
+}
+
+.post-header .post-meta {
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
 .post-list {
   list-style: none;
   padding: 0;
