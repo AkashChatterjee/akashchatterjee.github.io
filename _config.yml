@@ -8,7 +8,7 @@ plugins:
 navigation:
   - title: home
     url: /
-  - title: travel
-    url: /travel/
   - title: tech
     url: /tech/
+  - title: travel
+    url: /travel/
