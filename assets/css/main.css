@@ -40,6 +40,47 @@ body {
   padding: 2rem var(--spacing);
 }
 
+.cover-photo {
+  margin: -2rem calc(-1 * var(--spacing)) 2rem;
+  width: calc(100% + 2 * var(--spacing));
+  height: 200px;
+  overflow: hidden;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.cover-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.profile-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  margin-top: -60px;
+}
+
+.profile-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 4px solid var(--bg-color);
+  object-fit: cover;
+  flex-shrink: 0;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+.profile-content {
+  flex: 1;
+  padding-top: 60px;
+}
+
+.profile-content h1 {
+  margin-top: 0;
+}
+
 header {
   margin-bottom: 4rem;
   display: flex;
