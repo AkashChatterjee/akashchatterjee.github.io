@@ -9,8 +9,9 @@ title: home
 
 <div class="profile-section">
   <img src="/assets/images/profile.jpg" alt="Akash Chatterjee" class="profile-photo">
-  <div class="profile-content">
-    <h1>Hi, I'm Akash. 👋</h1>
+</div>
+
+<h1>Hi, I'm Akash. 👋</h1>
 
 <div class="social-links">
   <a href="https://www.linkedin.com/in/akashchatterjee/" target="_blank" aria-label="LinkedIn">
@@ -27,7 +28,6 @@ title: home
 
 I write about AI, software, travel and random deep thoughts nobody asked for.
 Always running away from meetings and towards mountains.
-  </div>
 </div>
 
 
