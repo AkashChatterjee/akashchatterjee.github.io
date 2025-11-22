@@ -5,10 +5,11 @@ title: tech
 
 # tech stuff
 
-<ul>
+<ul class="post-list">
   {% for post in site.categories.tech %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="post-meta">{{ post.date | date: "%b %d, %Y" }}</span>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

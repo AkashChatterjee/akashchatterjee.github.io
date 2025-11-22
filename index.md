@@ -10,27 +10,20 @@ Always running away from meetings and towards mountains.
 
 ## Connect
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/akashchatterjee/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/linkedin/0077b5" alt="LinkedIn" width="30" height="30" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashchatterjee/)
 
-<!-- Twitter / X -->
-<a href="https://x.com/akachatt" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" width="30" height="30" />
-</a>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akachatt)
+
 
 ## Latest Posts
 
-<ul>
+<ul class="post-list">
   {% for post in site.posts limit:5 %}
     <li>
-      <span style="color: #828282; font-size: 0.9em;">{{ post.date | date: "%b %d, %Y" }}</span>
-      <h3>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h3>
+      <span class="post-meta">{{ post.date | date: "%b %d, %Y" }}</span>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
       {% if post.excerpt %}
-        <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+        <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
       {% endif %}
     </li>
   {% endfor %}
