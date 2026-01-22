@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Tinkering around with the concept of a synthetic consensus"
+title: "Tinkering around with the concept of a synthetic census"
 date: 2026-01-22
 categories: tech
 ---
 
-tl;dr Here's the [synthetic consensus repo](https://github.com/AkashChatterjee/synthetic-census) to directly jump into it but I've tried to highlight below how this concept came to my mind, and the future scope of this approach.
+tl;dr Here's the [synthetic census repo](https://github.com/AkashChatterjee/synthetic-census) to directly jump into it but I've tried to highlight below how this concept came to my mind, and the future scope of this approach.
 
 Realised recently that GitHub Actions make a lot of interesting things possible right from the phone, possibly armed with Claude Code/GitHub Copilot. Essentially, it becomes serverless compute that can run any function coded into a repository. It also has a pretty simple interface to inject variables, secrets and other config metadata directly from the convenience of your phone.
 
@@ -15,4 +15,4 @@ I've used deep research agents (across LLM providers and self-hosted via Ollama)
 
 I've seen others use this concept of having personas in a repo to help with tasks, but it was fun playing around with this, by merging deep researched persona markdowns with questions that require demographic perspectives...all by simply running everything from the phone via GitHub Actions.
 
-Regardless of this simple implementation, I think the concept, in general, is powerful. I can envision population-scale personas with the right % distribution coded into the sampling techniques—a synthetic consensus could be a great way to preempt reaction to important society-level decisions. Moreover, if the core algorithm is solid, the personas could be modular, pluggable packages, possibly hosted on S3 buckets and could lead to much richer, valuable results.
+Regardless of this simple implementation, I think the concept, in general, is powerful. I can envision population-scale personas with the right % distribution coded into the sampling techniques—a synthetic census could be a great way to preempt reaction to important society-level decisions. Moreover, if the core algorithm is solid, the personas could be modular, pluggable packages, possibly hosted on S3 buckets and could lead to much richer, valuable results.
