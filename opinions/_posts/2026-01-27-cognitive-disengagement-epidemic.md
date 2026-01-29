@@ -17,9 +17,7 @@ This is challenged by the current situation where young coders are being asked t
 With the above in mind, I think **we should consider the following broad directions** in software engineering:
 
 1. Invest in specialised self-hosted or remotely hosted (via remote personal compute) open-sourced models.
-Use a common skills framework to enable max developer productivity (somewhat like VSCode with plugins)
-
-Encourage developers to use these models and contribute to the model/skill ecosystem.
+Use a common skills framework to enable max developer productivity (somewhat like VSCode with plugins). Encourage developers to use these models and contribute to the model/skill ecosystem.
 
 2. Token-budget based assistance, where developers are encouraged to use AI tools with a certain token limit (intentionally kept low, as current limits from these tools do not align with commercial viability anyway). This incentivises developers to actually grasp the content to avoid being left intellectually stranded once the token limit expires.
 At any company that provides Cursor, Copilot or Claude Code plans to their developers, this is absolutely essential for both their cost management and employee skill growth.
