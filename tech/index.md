@@ -3,7 +3,7 @@ layout: default
 title: tech
 ---
 
-# tech stuff
+# Tech
 
 <ul class="post-list">
   {% for post in site.categories.tech %}

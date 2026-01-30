@@ -11,7 +11,7 @@ title: home
   <img src="/assets/images/profile.jpg" alt="Akash Chatterjee" class="profile-photo">
 </div>
 
-<h1>Hi, I'm Akash. 👋</h1>
+<h1>Hi, I'm Akash 🍻</h1>
 
 <div class="social-links">
   <a href="https://www.linkedin.com/in/akashchatterjee/" target="_blank" aria-label="LinkedIn">

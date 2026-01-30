@@ -3,7 +3,7 @@ layout: default
 title: travel
 ---
 
-# travel stuff
+# Travel
 
 <ul class="post-list">
   {% for post in site.categories.travel %}

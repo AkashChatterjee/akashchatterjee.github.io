@@ -3,7 +3,7 @@ layout: default
 title: opinions
 ---
 
-# thoughts & opinions
+# Thoughts & Opinions
 
 <ul class="post-list">
   {% for post in site.categories.opinions %}
