@@ -4,6 +4,7 @@ title: "Handling Long-Running Tasks in AWS Lambda"
 date: 2024-11-13
 categories: tech
 author: "Akash Chatterjee"
+description: "A reliable pattern for handling AWS Lambda's 15-minute execution limit using EventBridge, SQS, and FIFO queues for long-running tasks."
 ---
 
 If you've worked with AWS Lambda, you're probably familiar with the 15-minute execution limit. It can be quite a constraint when dealing with longer tasks, right? Let me share a reliable pattern I've been using that elegantly handles this limitation by combining Lambdas with EventBridge and SQS.

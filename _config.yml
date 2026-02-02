@@ -1,5 +1,24 @@
 title: Akash Chatterjee
 description: Personal website and blog of Akash Chatterjee.
+url: "https://akashchatterjee.com"
+baseurl: ""
+
+# Author information
+author:
+  name: Akash Chatterjee
+
+# SEO Settings
+lang: en_US
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Jekyll settings
+permalink: /:categories/:year/:month/:day/:title/
+timezone: America/New_York
 
 navigation:
   - title: Home

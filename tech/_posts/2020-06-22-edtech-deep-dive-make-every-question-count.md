@@ -3,6 +3,7 @@ layout: post
 title: "EdTech Deep Dive // Make EVERY question count!"
 date: 2020-06-22
 categories: tech
+description: "Using data analysis to improve test questions in EdTech. Learn about discrimination index, distractor analysis, and reliability metrics for MCQ assessments."
 ---
 
 > "If you do not know how to ask the right question, you discover nothing."

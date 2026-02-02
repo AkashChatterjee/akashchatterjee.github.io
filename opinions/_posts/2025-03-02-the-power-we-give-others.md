@@ -3,6 +3,7 @@ layout: post
 title: "The Power We Give Others"
 date: 2025-03-02
 categories: opinions
+description: "How notifications disrupt our flow state and why reclaiming our attention is essential in an AI-enhanced era. Learn to disconnect and cultivate presence."
 ---
 
 I've been reflecting deeply on the role of notifications in our lives, those brief vibrations on our phones, laptops, tablets, and smartwatches. What began as a simple feature has stealthily woven itself into the fabric of our digital existence, becoming so pervasive that we rarely recognise how profoundly disruptive these small alerts have become.

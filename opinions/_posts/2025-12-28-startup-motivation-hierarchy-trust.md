@@ -3,6 +3,7 @@ layout: post
 title: "The Hierarchy of Trust: Why Startup Motivation Isn't What You Think"
 date: 2025-12-28
 categories: opinions
+description: "Understanding the hierarchy of trust in startups - from founder conviction to team alignment. Why mission-driven claims miss the real dynamics."
 ---
 
 Every startup claims to be mission-driven. They plaster their walls with inspirational quotes, talk endlessly about changing the world, and expect everyone from the CEO to the intern to wake up every morning obsessed with the same grand vision. It's a beautiful fantasy, and it's almost entirely wrong.

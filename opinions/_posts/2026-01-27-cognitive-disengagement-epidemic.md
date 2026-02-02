@@ -3,6 +3,7 @@ layout: post
 title: "Cognitive disengagement is becoming an epidemic"
 date: 2026-01-27
 categories: opinions
+description: "How over-reliance on AI coding assistants like ChatGPT and GitHub Copilot may harm cognitive development in software engineers. Research-backed insights."
 ---
 
 Recently I was reading about neural pathways and going down a rabbit hole of research around techniques that correlate with cognitive growth. I was trying to figure out what strategies would most likely be successful to train a new generation of software engineers as they enter a world where top leaders are constantly talking about the need to "master AI tools" and declaring that "coding is dead". It's almost as if the next generation is being encouraged to increasingly focus on using the modern AI/LLM apps like ChatGPT, Gemini and Claude and make it an integral part of their learning process.
