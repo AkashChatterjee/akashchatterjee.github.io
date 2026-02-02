@@ -3,6 +3,7 @@ layout: post
 title: "Setting up a CI/CD Pipeline for AWS Containerized Lambdas via AWS Codepipeline"
 date: 2023-07-25
 categories: tech
+description: "Complete tutorial on setting up CI/CD pipelines for AWS containerized Lambda functions using AWS CodePipeline. Simplify lambda deployments with version control."
 ---
 
 Implementing code via AWS lambdas has always been a double-edged sword.

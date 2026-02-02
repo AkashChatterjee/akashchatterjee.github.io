@@ -3,6 +3,7 @@ layout: post
 title: "SSH Configuration via a Jump Box"
 date: 2020-04-18
 categories: tech
+description: "Step-by-step guide to configure SSH access through a jump box (jump server) on Mac. Learn about reverse proxies and secure server connections."
 ---
 
 An enterprise system often uses the concept of a jump box (or jump server) for access. A jump server essentially acts as a reverse-proxy between the Internet and hosts on the internal networks. This is done to enable a single point of entry, that facilitates security checks, throttling, common operations across hosts etc.

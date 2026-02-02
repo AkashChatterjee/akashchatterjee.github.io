@@ -4,6 +4,7 @@ title: "The future of AI should be private, try Open WebUI and Ollama"
 date: 2025-05-27
 categories: opinions
 author: "Akash Chatterjee"
+description: "Why private AI matters and how to use Open WebUI with Ollama for local AI models to protect your data from commercial AI companies."
 ---
 
 The commercial, closed-source models have significantly advanced beyond current open-source alternatives. Beyond the pure size of the model parameters, companies like Anthropic and OpenAI have effectively mastered the process of 'scaffolding' these models to specialise in particular tasks. Where models like Deepseek, Llama and Mistral is failing (as a consumer product) is that you cannot get features like "Deep Research" or a "Custom GPT" or "Web Search" baked into the overall experience for an average consumer.

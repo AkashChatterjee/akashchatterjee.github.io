@@ -3,6 +3,7 @@ layout: post
 title: "Starry-Eyed Startups: The Cosmic Joke in India's Tech Scene"
 date: 2025-02-09
 categories: opinions
+description: "Examining how India's astrology startups are diverting talent and funding from real innovation, despite the country's achievements in space technology."
 ---
 
 In a nation that's sent a spacecraft to Mars, a sad trend is emerging in India's startup ecosystem: the meteoric rise of astrology apps. While the world focuses on AI and renewable energy, some of our brightest minds are busy decoding celestial gibberish. This cosmic gold rush is more of a black hole for innovation.

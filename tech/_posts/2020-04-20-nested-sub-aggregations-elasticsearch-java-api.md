@@ -4,6 +4,7 @@ title: "Nested Sub-Aggregations in Elasticsearch (Java API)"
 date: 2020-04-20
 categories: tech
 author: "Akash Chatterjee"
+description: "Learn how to build dynamic nested aggregations in Elasticsearch using the Java API with recursive methods. Includes examples for terms and average aggregations."
 ---
 
 This particular article is dedicated to a roadblock I faced when trying to work with the Elasticsearch aggregation APIs in Java.

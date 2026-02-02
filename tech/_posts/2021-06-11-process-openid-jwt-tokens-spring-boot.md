@@ -4,6 +4,7 @@ title: "Process OpenID JWT Tokens in Spring Boot"
 date: 2021-06-11
 categories: tech
 tags: [spring-boot, openid, jwt, authentication, java, security]
+description: "Complete guide to processing OpenID JWT tokens in Spring Boot. Learn to validate Google and Microsoft tokens with code examples and request filters."
 ---
 
 ## What is OpenID?

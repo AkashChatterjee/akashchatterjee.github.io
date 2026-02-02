@@ -3,6 +3,7 @@ layout: post
 title: "Perspectives"
 date: 2026-01-19
 categories: opinions
+description: "How embracing different perspectives drives human progress and why the willingness to evaluate alternate viewpoints is the foundation of intelligence."
 ---
 
 Smart people have a flaw. They consider logic to be a singular entity that they clearly see. They see it as clear as day and are totally confused when others think differently or present different conclusions.
