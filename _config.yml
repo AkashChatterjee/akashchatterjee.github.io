@@ -6,9 +6,12 @@ baseurl: ""
 # Author information
 author:
   name: Akash Chatterjee
+  image: /assets/images/profile.jpg
 
 # SEO Settings
 lang: en_US
+logo: /assets/images/profile.jpg
+image: /assets/images/profile.jpg
 
 # Plugins
 plugins:
