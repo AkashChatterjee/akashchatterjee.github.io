@@ -1,6 +1,8 @@
 ---
 layout: default
-title: home
+title: "Akash Chatterjee | AI, Software, Travel & Opinions"
+description: "Personal blog by Akash Chatterjee covering AI tools, software engineering, AWS architecture, startup insights, travel stories, and philosophical thoughts."
+last_modified_at: 2026-02-15
 ---
 
 <div class="cover-photo">

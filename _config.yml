@@ -1,5 +1,5 @@
 title: Akash Chatterjee
-description: Personal website and blog of Akash Chatterjee.
+description: "Personal blog by Akash Chatterjee on AI, software engineering, AWS, startup culture, travel and philosophy."
 url: "https://akashchatterjee.com"
 baseurl: ""
 
@@ -12,6 +12,15 @@ author:
 lang: en_US
 logo: /assets/images/profile.jpg
 image: /assets/images/profile.jpg
+
+twitter:
+  username: akachatt
+
+social:
+  name: Akash Chatterjee
+  links:
+    - https://www.linkedin.com/in/akashchatterjee/
+    - https://x.com/akachatt
 
 # Plugins
 plugins:

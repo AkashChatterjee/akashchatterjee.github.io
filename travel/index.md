@@ -1,6 +1,9 @@
 ---
 layout: default
-title: travel
+title: "Travel Stories | Akash Chatterjee"
+description: "Travel experiences, stories and reflections from Akash Chatterjee's adventures around the world. From mountain trails to city escapes."
+permalink: /travel/
+last_modified_at: 2026-02-15
 ---
 
 # Travel

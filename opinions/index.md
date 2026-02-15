@@ -1,6 +1,9 @@
 ---
 layout: default
-title: opinions
+title: "Thoughts & Opinions | Akash Chatterjee"
+description: "Essays and opinions on AI privacy, startup culture, philosophy, productivity, cognitive development, and the future of technology by Akash Chatterjee."
+permalink: /opinions/
+last_modified_at: 2026-02-15
 ---
 
 # Thoughts & Opinions

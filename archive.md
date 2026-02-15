@@ -1,9 +1,12 @@
 ---
 layout: default
-title: archive
+title: "All Posts Archive | Akash Chatterjee"
+description: "Browse all articles by Akash Chatterjee — from AWS and Elasticsearch tutorials to AI opinions, startup culture analysis, philosophy, and travel stories."
 permalink: /archive/
+last_modified_at: 2026-02-15
 ---
-# everything
+# Everything
+
 <ul class="post-list">
   {% for post in site.posts %}
     <li>

@@ -1,6 +1,9 @@
 ---
 layout: default
-title: tech
+title: "Software & Tech Articles | Akash Chatterjee"
+description: "Technical posts on AWS Lambda, Elasticsearch, Spring Boot, CI/CD pipelines, and software engineering best practices by Akash Chatterjee."
+permalink: /tech/
+last_modified_at: 2026-02-15
 ---
 
 # Tech
