@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tinkering around with the concept of a synthetic census"
+title: "Tinkering with the concept of a synthetic census"
 date: 2026-01-22
 categories: tech
 description: "Exploring synthetic personas and LLM-powered perspective analysis using GitHub Actions. A novel approach to understanding demographic viewpoints on complex questions."
