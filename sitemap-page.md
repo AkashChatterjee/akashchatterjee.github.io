@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Site Map | Akash Chatterjee"
-description: "Complete listing of all pages and posts on akashchatterjee.com, covering tech articles, opinions and more."
+description: "Complete listing of all pages and posts on akashchatterjee.com, covering tech articles, life and more."
 permalink: /sitemap/
 last_modified_at: 2026-02-15
 ---
@@ -13,7 +13,7 @@ last_modified_at: 2026-02-15
 - [Home](/)
 - [All Posts Archive](/archive/)
 - [Tech](/tech/)
-- [Opinions](/opinions/)
+- [Life](/life/)
 
 ## Tech Posts
 
@@ -23,10 +23,10 @@ last_modified_at: 2026-02-15
   {% endfor %}
 </ul>
 
-## Opinion Posts
+## Life Posts
 
 <ul>
-  {% for post in site.categories.opinions %}
+  {% for post in site.categories.life %}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — <span>{{ post.date | date: "%b %d, %Y" }}</span></li>
   {% endfor %}
 </ul>

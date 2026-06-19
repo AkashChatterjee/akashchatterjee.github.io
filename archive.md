@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "All Posts Archive | Akash Chatterjee"
-description: "Browse all articles by Akash Chatterjee — from AWS and Elasticsearch tutorials to AI opinions, startup culture analysis and philosophy."
+description: "Browse all articles by Akash Chatterjee — from AWS and Elasticsearch tutorials to AI opinions, startup culture analysis, philosophy, and life."
 permalink: /archive/
 last_modified_at: 2026-02-15
 ---

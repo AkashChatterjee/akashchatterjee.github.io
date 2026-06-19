@@ -2,7 +2,7 @@
 layout: post
 title: "Cognitive disengagement is becoming an epidemic"
 date: 2026-01-27
-categories: opinions
+categories: life
 description: "How over-reliance on AI coding assistants like ChatGPT and GitHub Copilot may harm cognitive development in software engineers. Research-backed insights."
 ---
 

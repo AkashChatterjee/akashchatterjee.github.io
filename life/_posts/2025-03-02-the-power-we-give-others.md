@@ -2,7 +2,7 @@
 layout: post
 title: "The Power We Give Others"
 date: 2025-03-02
-categories: opinions
+categories: life
 description: "How notifications disrupt our flow state and why reclaiming our attention is essential in an AI-enhanced era. Learn to disconnect and cultivate presence."
 ---
 
