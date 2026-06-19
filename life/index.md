@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Thoughts & Opinions | Akash Chatterjee"
-description: "Essays and opinions on AI privacy, startup culture, philosophy, productivity, cognitive development, and the future of technology by Akash Chatterjee."
-permalink: /opinions/
+title: "Life | Akash Chatterjee"
+description: "Life & everything else."
+permalink: /life/
 last_modified_at: 2026-02-15
 ---
 
-# Thoughts & Opinions
+# Life
 
 <ul class="post-list">
-  {% for post in site.categories.opinions %}
+  {% for post in site.categories.life %}
     <li>
       <span class="post-meta">{{ post.date | date: "%b %d, %Y" }}</span>
       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>

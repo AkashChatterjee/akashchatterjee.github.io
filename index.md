@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Akash Chatterjee | AI, Software & Opinions"
+title: "Akash Chatterjee | AI, Software & Life"
 description: "Personal blog by Akash Chatterjee covering AI tools, software engineering, AWS architecture, startup insights, and philosophical thoughts."
 last_modified_at: 2026-02-15
 ---
