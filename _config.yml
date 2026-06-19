@@ -1,5 +1,5 @@
 title: Akash Chatterjee
-description: "Personal blog by Akash Chatterjee on AI, software engineering, AWS, startup culture, travel and philosophy."
+description: "Personal blog by Akash Chatterjee on AI, software engineering, AWS, startup culture and philosophy."
 url: "https://akashchatterjee.com"
 baseurl: ""
 
@@ -37,7 +37,5 @@ navigation:
     url: /
   - title: Tech
     url: /tech/
-  - title: Travel
-    url: /travel/
   - title: Opinions
     url: /opinions/

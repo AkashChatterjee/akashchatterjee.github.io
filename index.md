@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Akash Chatterjee | AI, Software, Travel & Opinions"
-description: "Personal blog by Akash Chatterjee covering AI tools, software engineering, AWS architecture, startup insights, travel stories, and philosophical thoughts."
+title: "Akash Chatterjee | AI, Software & Opinions"
+description: "Personal blog by Akash Chatterjee covering AI tools, software engineering, AWS architecture, startup insights, and philosophical thoughts."
 last_modified_at: 2026-02-15
 ---
 
@@ -28,8 +28,7 @@ last_modified_at: 2026-02-15
   </a>
 </div>
 
-I write about AI, software, travel and random deep thoughts nobody asked for.
-Always running away from meetings and towards mountains.
+I write about AI, software and random deep thoughts nobody asked for.
 
 ---
 
