@@ -27,6 +27,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Jekyll settings
 permalink: /:categories/:year/:month/:day/:title/

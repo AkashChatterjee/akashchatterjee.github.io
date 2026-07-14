@@ -3,6 +3,8 @@ layout: post
 title: "Starry-Eyed Startups: The Cosmic Joke in India's Tech Scene"
 date: 2025-02-09
 categories: life
+redirect_from:
+  - /opinions/2025/02/09/starry-eyed-startups-cosmic-joke-india-tech/
 description: "Examining how India's astrology startups are diverting talent and funding from real innovation, despite the country's achievements in space technology."
 ---
 

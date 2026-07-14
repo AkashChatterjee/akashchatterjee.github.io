@@ -3,6 +3,8 @@ layout: post
 title: "The Hierarchy of Trust: Why Startup Motivation Isn't What You Think"
 date: 2025-12-28
 categories: life
+redirect_from:
+  - /opinions/2025/12/28/startup-motivation-hierarchy-trust/
 description: "Understanding the hierarchy of trust in startups - from founder conviction to team alignment. Why mission-driven claims miss the real dynamics."
 ---
 

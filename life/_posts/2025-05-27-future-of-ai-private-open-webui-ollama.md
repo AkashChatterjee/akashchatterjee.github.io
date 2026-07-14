@@ -3,6 +3,8 @@ layout: post
 title: "The future of AI should be private, try Open WebUI and Ollama"
 date: 2025-05-27
 categories: life
+redirect_from:
+  - /opinions/2025/05/27/future-of-ai-private-open-webui-ollama/
 author: "Akash Chatterjee"
 description: "Why private AI matters and how to use Open WebUI with Ollama for local AI models to protect your data from commercial AI companies."
 ---

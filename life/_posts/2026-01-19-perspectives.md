@@ -3,6 +3,8 @@ layout: post
 title: "Perspectives"
 date: 2026-01-19
 categories: life
+redirect_from:
+  - /opinions/2026/01/19/perspectives/
 description: "How embracing different perspectives drives human progress and why the willingness to evaluate alternate viewpoints is the foundation of intelligence."
 ---
 

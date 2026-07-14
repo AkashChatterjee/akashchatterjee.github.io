@@ -3,7 +3,9 @@ layout: default
 title: "Life | Akash Chatterjee"
 description: "Life & everything else."
 permalink: /life/
-last_modified_at: 2026-02-15
+redirect_from:
+  - /opinions/
+last_modified_at: 2026-06-19
 ---
 
 # Life

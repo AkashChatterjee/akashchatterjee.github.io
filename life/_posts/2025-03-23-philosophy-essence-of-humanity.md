@@ -3,6 +3,8 @@ layout: post
 title: "Philosophy, the essence of humanity"
 date: 2025-03-23
 categories: life
+redirect_from:
+  - /opinions/2025/03/23/philosophy-essence-of-humanity/
 description: "Why quiet contemplation and philosophical thinking remain essential to human progress, even as we work alongside AI systems."
 ---
 
