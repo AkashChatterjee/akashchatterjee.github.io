@@ -30,7 +30,7 @@ plugins:
 
 # Jekyll settings
 permalink: /:categories/:year/:month/:day/:title/
-timezone: America/New_York
+timezone: Asia/Kolkata
 
 navigation:
   - title: Home
