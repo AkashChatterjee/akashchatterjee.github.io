@@ -254,6 +254,38 @@ pre code {
   margin-top: 0.5rem;
 }
 
+.project-list {
+  list-style: none;
+  padding: 0;
+}
+
+.project-card {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(127, 127, 127, 0.2);
+}
+
+.project-card:last-child {
+  border-bottom: none;
+}
+
+.project-name {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.project-description {
+  color: var(--text-color);
+  margin-bottom: 1rem;
+}
+
+.project-links {
+  display: flex;
+  gap: 1rem;
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+}
+
 footer {
   margin-top: 5rem;
   padding-top: 2rem;
