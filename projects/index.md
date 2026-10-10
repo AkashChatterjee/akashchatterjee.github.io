@@ -3,7 +3,7 @@ layout: default
 title: "Projects | Akash Chatterjee"
 description: "Open-source projects and deployments by Akash Chatterjee, including glin-ml — an MCP server for statistical predictions from Explainable Boosting Machines."
 permalink: /projects/
-last_modified_at: 2026-09-20
+last_modified_at: 2026-10-11
 ---
 
 # Projects
@@ -26,6 +26,7 @@ I would be grateful for your support: [buymeacoffee.com/akashchatterjee](https:/
       <a href="https://akashchatterjee.com/glin" target="_blank">README</a>
       <a href="https://github.com/AkashChatterjee/glin" target="_blank">GitHub</a>
       <a href="https://pypi.org/project/glin-ml/" target="_blank">PyPI</a>
+      <a href="/tech/2026/10/11/glin-ml-case-study-child-stunting-nfhs5.html">Case study</a>
     </div>
   </li>
 </ul>
