@@ -8,9 +8,9 @@ last_modified_at: 2026-09-20
 
 # Projects
 
-If you find my projects useful for your own work, I would be grateful for your support: [buymeacoffee.com/akashchatterjee](https://buymeacoffee.com/akashchatterjee)
+Stuff I've built and open-sourced.
 
-Things I've built and open-sourced.
+I would be grateful for your support: [buymeacoffee.com/akashchatterjee](https://buymeacoffee.com/akashchatterjee)
 
 <ul class="project-list">
   <li class="project-card">
