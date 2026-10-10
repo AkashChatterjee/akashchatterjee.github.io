@@ -12,16 +12,15 @@ Stuff I've built and open-sourced.
 
 I would be grateful for your support: [buymeacoffee.com/akashchatterjee](https://buymeacoffee.com/akashchatterjee)
 
+<hr/>
+
 <ul class="project-list">
   <li class="project-card">
     <h3 class="project-name">glin-ml</h3>
     <p class="project-description">
       A CLI tool and Python library that equips AI agents with an instant, statistical
       "gut feeling." It trains an Explainable Boosting Machine on a CSV and exposes it to
-      LLM agents over MCP — locally over stdio, or remotely over streamable-http. Every
-      prediction comes with an exact, zero-approximation breakdown of which features
-      drove it, straight from the model's own additive structure (no SHAP/LIME
-      approximation).
+      LLM agents over MCP — locally over stdio. Every prediction comes with an exact, zero-approximation breakdown of which features drove it, straight from the model's own additive structure (no SHAP/LIME approximation).
     </p>
     <div class="project-links">
       <a href="https://akashchatterjee.com/glin" target="_blank">README</a>
