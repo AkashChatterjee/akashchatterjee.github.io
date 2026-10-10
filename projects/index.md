@@ -8,6 +8,10 @@ last_modified_at: 2026-09-20
 
 # Projects
 
+If you find my projects useful for your own work, I would be grateful for your support: [buymeacoffee.com/akashchatterjee](https://buymeacoffee.com/akashchatterjee)
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png)](https://buymeacoffee.com/akashchatterjee)
+
 Things I've built and open-sourced.
 
 <ul class="project-list">
