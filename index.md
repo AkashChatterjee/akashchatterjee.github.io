@@ -30,6 +30,8 @@ last_modified_at: 2026-02-15
 
 I write about AI, software and random deep thoughts nobody asked for.
 
+I launch my projects under the [One Harbour Labs](https://oneharbr.com/) label — check them out at [oneharbr.com](https://oneharbr.com/).
+
 ---
 
 ## Latest Posts

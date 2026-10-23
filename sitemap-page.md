@@ -14,7 +14,6 @@ last_modified_at: 2026-02-15
 - [All Posts Archive](/archive/)
 - [Tech](/tech/)
 - [Life](/life/)
-- [Projects](/projects/)
 
 ## Tech Posts
 
